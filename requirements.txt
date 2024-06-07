@@ -1,0 +1,4 @@
+langchain_google_genai
+crewai
+load_dotenv
+crewai_tools
